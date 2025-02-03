@@ -1,5 +1,4 @@
 # Pseudo-Love-Calculator
-
 Pseudo Love Calculator is a fun and interactive web application that calculates a "love percentage" between two people. This project is built using Node.js, Express, and EJS for dynamic rendering and styling.
 
 ## Key Features:
